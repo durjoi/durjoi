@@ -1,4 +1,20 @@
-<h2 align="center"> Statistics </h2>
+<h2 align="left"> Mehedi Hassan Durjoi </h2>
+<p>Software Developer | Laravel | Django | React Js | Node Js</p>
+<p>
+  An Opensource enthusiast working primarily on Laravel, PHP, and MySQL to make the most out of my 2 years of rich experience with Opensource technologies. I have created several dynamic and highly data-driven websites, inventory systems, and business applications using Laravel, PHP, and MySQL.
+<br> <br>
+Here I have added some of my skill sets.
+<br> <br>
+Language: PHP, JavaScript, Python <br>
+Frameworks: Laravel, Lumen, Django, React, Flask, Express <br>
+Server: Docker, Linux, Apache, Nginx <br>
+Database: MySQL, MongoDB, PostgreSQL <br>
+Markup: HTML5, CSS <br>
+RWD: Bootstrap, Tailwind CSS, Material UI <br>
+Tools: Git, Vim
+</p>
+
+<h2 align="left"> Statistics </h2>
 <br>
 <p align=center>
   <div align=center>
