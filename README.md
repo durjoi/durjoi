@@ -6,7 +6,7 @@
 Here I have added some of my skill sets.
 <br> <br>
 Language: PHP, JavaScript, Python <br>
-Frameworks: Laravel, Lumen, Django, React, Flask, Express <br>
+Frameworks: Laravel, React, Express, Node Js <br>
 Server: Docker, Linux, Apache, Nginx <br>
 Database: MySQL, MongoDB, PostgreSQL <br>
 Markup: HTML5, CSS <br>
