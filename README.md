@@ -5,10 +5,10 @@
 <br> <br>
 Here I have added some of my skill sets.
 <br> <br>
-Language: PHP, JavaScript, Python <br>
-Frameworks: Laravel, React, Express, Node Js <br>
+Language: PHP, JavaScript <br>
+Frameworks: Laravel, React <br>
 Server: Docker, Linux, Apache, Nginx <br>
-Database: MySQL, MongoDB, PostgreSQL <br>
+Database: MySQL <br>
 Markup: HTML5, CSS <br>
 RWD: Bootstrap, Tailwind CSS, Material UI <br>
 Tools: Git, Vim
