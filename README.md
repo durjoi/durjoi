@@ -1,7 +1,7 @@
 <h2 align="left"> Mehedi Hassan Durjoi </h2>
 <p>Software Developer | PHP | Javascript | Python</p>
 <p>
-  An Opensource enthusiast working primarily on Javascript, Python, and PHP to make the most out of my 2 years of rich experience with Opensource technologies. I have created several dynamic and highly data-driven websites, inventory systems, and business applications using Laravel, Node js, and React js.
+  An Opensource enthusiast working primarily on Javascript, Python, and PHP to make the most out of my 3 years of rich experience with Opensource technologies. I have created several dynamic and highly data-driven websites, inventory systems, and business applications using Laravel, Node js, and React js.
 <br> <br>
 Here I have added some of my skill sets.
 <br> <br>
