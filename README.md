@@ -1,17 +1,17 @@
 <h2 align="left"> Mehedi Hassan Durjoi </h2>
-<p>Software Developer | PHP | Javascript</p>
+<p>Software Engineer | Backend Engineer | PHP | Javascript | Laravel | Node js | Nest js</p>
 <p>
-  An Opensource enthusiast working primarily on Javascript, Python, and PHP to make the most out of my 3 years of rich experience with Opensource technologies. I have created several dynamic and highly data-driven websites, inventory systems, and business applications using Laravel, Node js, and React js.
+A self-taught backend heavy software engineer working primarily on Javascript, PHP, and Python since 2019.
 <br> <br>
-Here I have added some of my skill sets.
+Skills
 <br> <br>
-Language: PHP, JavaScript <br>
-Frameworks: Laravel, React <br>
+Language: PHP, JavaScript, Python <br>
+Frameworks: Laravel, React, Node js, Nest js, Express js <br>
 Server: Docker, Linux, Apache, Nginx <br>
-Database: MySQL <br>
-Markup: HTML5, CSS <br>
+Database: MySQL, MongoDB, DynamoDB <br>
+Markup: HTML5, CSS3 <br>
 RWD: Bootstrap, Tailwind CSS, Material UI <br>
-Tools: Git, Vim
+Tools: Git, Vim, Prometheus, Grafana
 </p>
 
 <h2 align="left"> Statistics </h2>
