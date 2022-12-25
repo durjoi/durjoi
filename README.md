@@ -5,7 +5,7 @@ A self-taught backend heavy software engineer working primarily on Javascript, P
 <br> <br>
 Skills
 <br> <br>
-Language: PHP, JavaScript, Python, Golang <br>
+Language: PHP, JavaScript, TypeScript <br>
 Frameworks: Laravel, React, Node js, Nest js, Express js <br>
 Server: Docker, Linux, Apache, Nginx <br>
 Database: MySQL, MongoDB, DynamoDB <br>
