@@ -1,7 +1,7 @@
 <h2 align="left"> Mehedi Hassan Durjoi </h2>
 <p>Software Engineer | Backend Engineer | PHP | Javascript | Golang | Laravel | Node js | Nest js</p>
 <p>
-A self-taught backend heavy software engineer working primarily on Javascript, PHP, Go and Python since 2018.
+A self-taught backend heavy software engineer working primarily on Javascript, and PHP since 2018.
 <br> <br>
 Skills
 <br> <br>
