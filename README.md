@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Durjoi, a self taught backend developer 👨‍💻 working since 2018 🚀</div>  
+### <div align="center">I'm Durjoi, a self taught software engineer 👨‍💻 working since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working on NodeJs based Microservices  
