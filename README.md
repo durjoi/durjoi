@@ -4,6 +4,17 @@
   
 
 ### <div align="center">I'm Durjoi, a self taught software engineer 👨‍💻 working since 2018 🚀</div>  
+
+<div>
+  <p>Self-taught and highly motivated full-stack software engineer with a passion for backend development and a proven track record of delivering high-quality, scalable, and maintainable code. </p>
+
+  <p>
+Skilled in PHP, JavaScript, TypeScript, and other technologies, with a strong focus on problem-solving and the ability to deliver successful projects on time. Constantly seeking to improve my skills and knowledge through self-study and hands-on experience. Proven ability to work in a fast-paced environment and deliver high-performance solutions. 
+  </p>
+
+    <p>
+Looking for opportunities to collaborate with a dynamic team of engineers on challenging and impactful projects. Connect with me to stay updated on my professional journey.</p>
+</div>
   
 
 - 🔭 I’m currently working on NodeJs based Microservices  
