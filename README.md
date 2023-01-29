@@ -12,8 +12,8 @@
 Skilled in PHP, JavaScript, TypeScript, and other technologies, with a strong focus on problem-solving and the ability to deliver successful projects on time. Constantly seeking to improve my skills and knowledge through self-study and hands-on experience. Proven ability to work in a fast-paced environment and deliver high-performance solutions. 
   </p>
 
-    <p>
-Looking for opportunities to collaborate with a dynamic team of engineers on challenging and impactful projects. Connect with me to stay updated on my professional journey.</p>
+    <p>Looking for opportunities to collaborate with a dynamic team of engineers on challenging and impactful projects. Connect with me to stay updated on my professional journey.
+  </p>
 </div>
   
 
