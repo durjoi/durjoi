@@ -2,8 +2,8 @@
 <img src="https://durjoi.github.io/durjoi/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-<br>
-<div align="center">### Mehedi Hassan Durjoi</div>
+
+## <div align="center"> Mehedi Hassan Durjoi</div>
 <div align="center">
 A self taught backend heavy software engineer 👨‍💻 working since 2018 🚀</div>  
 
