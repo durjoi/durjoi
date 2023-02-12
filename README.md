@@ -5,7 +5,7 @@
 
 ## <div align="center"> Mehedi Hassan Durjoi</div>
 <div align="center">
-A self taught backend heavy software engineer 👨‍💻 working since 2018 🚀</div>  
+A backend heavy full stack software engineer 👨‍💻 working since 2018 🚀</div>  
 
 <br>
 <div align="center">
