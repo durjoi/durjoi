@@ -27,83 +27,25 @@ A backend heavy full stack software engineer 👨‍💻 working since 2018 🚀
 </div>  
 
 <div>
-  <p>A Self-taught and highly motivated full-stack software engineer with a passion for backend development and a proven track record of delivering high-quality, scalable, and maintainable code. </p>
-
   <p>
-Skilled in PHP, JavaScript, TypeScript, and other technologies, with a strong focus on problem-solving and the ability to deliver successful projects on time. Constantly seeking to improve my skills and knowledge through self-study and hands-on experience. Proven ability to work in a fast-paced environment and deliver high-performance solutions. 
- <br><br>
-Looking for opportunities to collaborate with a dynamic team of engineers on challenging and impactful projects. Connect with me to stay updated on my professional journey.
+I'm a self-taught, super-motivated software engineer with a passion for solving problems. I've been in the game since 2018, and my journey has taken me through diverse experiences.
   </p>
+
+<p>
+In my current role as a Data Engineer, I'm spearheading data engineering efforts to optimize data pipelines, driving actionable insights for a leading retail solutions provider. I collaborate closely with cross-functional teams to design, develop, and maintain robust ETL (Extract, Transform, Load) processes. 
+</p>
+<p>
+My tech stack includes Google Cloud Platform (GCP) services like BigQuery, Dataflow, Vertex AI, Cloud Functions, and Cloud Storage, enabling scalable data processing and analysis in a cloud-native environment. I also develop custom data solutions that support business intelligence and reporting, facilitating data-driven decision-making. Additionally, I'm skilled in automating and optimizing Google Ads campaigns through the Google Ads API, ensuring efficient management of ad spend, bidding strategies, and ad performance analysis for improved ROI.
+</p>
+<p>
+Before this data-driven adventure, I had an exciting journey in full-stack software engineering. I've contributed to a small, talented team, working on E-commerce, ERP, and in-house solutions at Bitbyte Technology Ltd. I also contributed to creating systems like the Air Traffic Tracking system, Electronic Visa Processing, and Historical Flight Management system during my time at ASL Systems Ltd. My career kick-started at WeserveBD, where I designed and developed a nifty service booking platform.
+</p>
+<p>
+I've honed my skills in Python, PHP, JavaScript, TypeScript, Node JS, Nest Js, Laravel, and more. Whether it's full-stack development or data engineering, I'm all about ensuring projects are on track and solving challenges. I'm a continuous learner, always exploring new avenues through self-study and hands-on experience.
+</p>
+<p>
+Beyond my work, I'm actively involved in freelance projects, exploring various ventures, expanding my skill set, and gaining insights into diverse industries. If you're passionate about software development, and data engineering, or just want to chat about cool tech stuff, let's connect. 
+</p>
 </div>
-  
-
-- 🔭 I’m currently working on NodeJs based Microservices  
-  
-
-- 🌱 I’m currently learning DevOps  
-  
-
-- ❓ Ask me about anything related to Microservices Architecture and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
-## I am comfortable with  
-
-
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=durjoi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=durjoi&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
