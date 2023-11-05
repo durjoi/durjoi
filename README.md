@@ -5,7 +5,7 @@
 
 ## <div align="center"> Mehedi Hassan Durjoi</div>
 <div align="center">
-A backend heavy full stack software engineer 👨‍💻 working since 2018 🚀</div>  
+Data Engineer | Backend Engineer | JavaScript | TypeScript | Python 👨‍💻 working since 2018 🚀</div>  
 
 <br>
 <div align="center">
